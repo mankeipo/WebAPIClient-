@@ -1,0 +1,17 @@
+C:\Users\poman\Documents\API\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\poman\Documents\API\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\poman\Documents\API\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\poman\Documents\API\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\poman\Documents\API\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\poman\Documents\API\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\poman\Documents\API\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
